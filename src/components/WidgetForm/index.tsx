@@ -4,9 +4,9 @@ import bugImageUrl from '../../assets/bug.svg';
 import ideaImageUrl from '../../assets/idea.svg';
 import thoughtImageUrl from '../../assets/thought.svg';
 
-import { FeedbackContentStep } from "./componentsSteps/feedbackContentStep";
-import { FeedbackSuccessStep } from "./componentsSteps/feedbackSuccessStep";
-import { FeedbackTypeStep } from "./componentsSteps/feedbackTypeStep";
+import { FeedbackContentStep } from "./componentsSteps/FeedbackContentStep";
+import { FeedbackSuccessStep } from "./componentsSteps/FeedbackSuccessStep";
+import { FeedbackTypeStep } from "./componentsSteps/FeedbackTypeStep";
 
 
 export const feedbackTypes = {
